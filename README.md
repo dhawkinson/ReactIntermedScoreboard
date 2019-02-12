@@ -1,3 +1,7 @@
+# React Intermediate Scorecard
+
+An exercise in building a React App utilizing NPM modules with Bootstrap and React Bootstrap.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
